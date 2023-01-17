@@ -2,3 +2,7 @@ bükk
 hársfa
 fenyő
 mystical tree
+nyírfa
+myárfa
+diófa
+akácfa
